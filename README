@@ -1,0 +1,33 @@
+The dataset has following columns: 
+1)JobInvolvement
+2)Education
+3)JobSatisfaction
+4)PerformanceRating
+5)RelationshipSatisfaction
+6)WorkLifeBalance
+
+link for Data Source : https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+
+Targets :
+
+1. Predict which employee will leave the company using ANN & Classification algorithms
+
+Classification Algorithms used :
+
+1) LOGISTIC REGRESSION CLASSIFIER
+2) RANDOM FOREST CLASSIFIERS
+
+& ARTIFICIAL NEURAL NETWORKS
+
+2. To draw confusion Matrix
+
+3. classification accuracy , precision, Recall etc (KPIs)
+
+4. F1 score
+
+
+Outputs :
+
+1. 
+
